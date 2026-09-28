@@ -1,0 +1,6 @@
+{
+  "name": "DevStack Campus - Web & App Builders for BTech Students",
+  "description": "A curated directory of top website builders, no-code/low-code tools, AI platforms, app dev frameworks, and coding platforms tailored for BTech student projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
